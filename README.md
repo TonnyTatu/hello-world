@@ -1,2 +1,2 @@
 # hello-world
-Just get started to github
+I just created a branch and commiting changes to it.
